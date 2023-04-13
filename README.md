@@ -21,4 +21,5 @@
 <b>Terminate Resources (10 minutes):</b> Terminate all the resources you created throughout this tutorial"<br>
 <br>
 <h2>Resources Used</h2>
-- [Build a Serverless Web Application](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
+
+- <b>AWS Resource Center:</b>[Build a Serverless Web Application](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
